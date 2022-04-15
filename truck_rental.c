@@ -1,4 +1,6 @@
-/* Lauren Vogel	COP3514 Section 2
+/* Lauren Vogel	COP3514 Section 2     Spring 2020
+ * Full marks no points lost
+ * Compile and run with gcc -Wall -lm truck_rental.c
  * The purpose of this program is to provide a truck rental menu where a
  * user can select a moving vehicle that can be rented for a maximum 24 hours
  * and the program calculates the cost of the different truck rentals by hour and minutes. */

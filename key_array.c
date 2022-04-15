@@ -1,4 +1,4 @@
-/*Lauren Vogel    COP3514 Section 2 Spring 2020   *
+/*Lauren Vogel  COP3514 Section 2   Spring 2020   *
 * The purpose of this program is to take an array *
 * of 10 digits that range from 0-9 and randomly   *
 * swapping the digits positions 10 times.         *
