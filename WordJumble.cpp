@@ -51,7 +51,7 @@ bool isJumble(string word1, string word2)
                 if(arr1[i] != arr2[i])
                         return false;
         return true;
-}
+        }
 
 //Returns all of the strings in vec that are jumbles of word
 vector<string> findMatches(string word, vector<string> vec)
