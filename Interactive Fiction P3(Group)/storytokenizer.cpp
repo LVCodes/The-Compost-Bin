@@ -1,7 +1,3 @@
-//
-// Created by Mabel Sugar-Langewisch on 2020-06-09.
-//
-
 #include "storytokenizer.h"
 #include <iostream>
 #include <string.h>
